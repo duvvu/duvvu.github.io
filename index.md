@@ -1,3 +1,5 @@
+<meta name="google-site-verification" content="OqLIgzE9okho6p2CNDA5m_xSDYgX0UghLh1Eo8CiERs" />
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/duvvu/duvvu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
